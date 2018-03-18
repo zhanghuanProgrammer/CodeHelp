@@ -1,0 +1,25 @@
+#import "{{ ClassName }}.h"
+
+@implementation {{ ClassName }}
+
+static {{ ClassName }} *_instance;
+
++ (id)allocWithZone:(NSZone *)zone
+{
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+        _instance = [super allocWithZone:zone];
+    });
+    return _instance;
+}
+
++ ({{ ClassName }} *)shared{{ ClassName }}
+{
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+        _instance = [[self alloc] init];
+    });
+    return _instance;
+}
+
+@end

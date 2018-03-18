@@ -1,0 +1,4 @@
+{% for p in activity %}
+<activity android:name=".{{ p }}Activity">
+</activity>
+{% /for %}

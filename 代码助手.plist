@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>//检查网络状态</key>
+	<string>查询</string>
+	<key>Appirater -- app中提示用户为app评价的提示框</key>
+	<string>查询</string>
+	<key>CADisplayLink</key>
+	<string>查询</string>
+	<key>EaseUI v3.1 官方文档还是不太靠谱集成过程中会有很多错误</key>
+	<string>查询</string>
+	<key>JudgeIPhoneType</key>
+	<string>查询</string>
+	<key>KProgressHUD</key>
+	<string>查询</string>
+	<key>MJRefresh</key>
+	<string>查询</string>
+	<key>PhotoLibrary</key>
+	<string>查询</string>
+	<key>Signal信号的类型</key>
+	<string>查询</string>
+	<key>TabBarAndNavagation</key>
+	<string>查询</string>
+	<key>TabBarAndNavagation_Push</key>
+	<string>查询</string>
+	<key>Tabbar</key>
+	<string>查询</string>
+	<key>TemplateDealwhith模板通用处理</key>
+	<string>TemplateDealwhith</string>
+	<key>TigerDB</key>
+	<string>查询</string>
+	<key>Toast.makeText</key>
+	<string>查询</string>
+	<key>TrainTicketHelper</key>
+	<string>TrainTicketHelper</string>
+	<key>UIViewController切换风格</key>
+	<string>查询</string>
+	<key>Xcode 7.2 免证书真机调试</key>
+	<string>查询</string>
+	<key>Xcode标记</key>
+	<string>查询</string>
+	<key>ZHAlertAction</key>
+	<string>查询</string>
+	<key>ZHComparCode代码对比不同处简单版</key>
+	<string>ZHComparCode</string>
+	<key>ZHCreatFMDBNew</key>
+	<string>ZHCreatFMDBNew</string>
+	<key>ZHGetMidStr获取自己需要的中间字符串</key>
+	<string>ZHGetMidStr</string>
+	<key>ad_ dialog</key>
+	<string>查询</string>
+	<key>ad_ getDrawable</key>
+	<string>查询</string>
+	<key>ad_ getbitmapFromResoure</key>
+	<string>查询</string>
+	<key>ad_animate</key>
+	<string>查询</string>
+	<key>ad_delay延时执行</key>
+	<string>查询</string>
+	<key>ad_handle</key>
+	<string>查询</string>
+	<key>ad_layout_creat_id</key>
+	<string>LayoutCreatID</string>
+	<key>ad_println</key>
+	<string>查询</string>
+	<key>ad_shape</key>
+	<string>查询</string>
+	<key>ad_timer</key>
+	<string>查询</string>
+	<key>ad_界面之间传参数</key>
+	<string>查询</string>
+	<key>ad_设置只竖屏</key>
+	<string>查询</string>
+	<key>app版本检测更新</key>
+	<string>查询</string>
+	<key>cell监听文本(TextFeild)变化</key>
+	<string>查询</string>
+	<key>cjol_ dataArr</key>
+	<string>查询</string>
+	<key>cjol_ saveAction保存数据</key>
+	<string>查询</string>
+	<key>cjol_ 组头和组尾高度</key>
+	<string>查询</string>
+	<key>cjol_ 设置导航条</key>
+	<string>查询</string>
+	<key>cjol_ 请求数据和保存数据</key>
+	<string>查询</string>
+	<key>cjol_全局Block</key>
+	<string>查询</string>
+	<key>collectionView必须实现的方法</key>
+	<string>查询</string>
+	<key>collectionView的基本布局flowLayout</key>
+	<string>查询</string>
+	<key>compile</key>
+	<string>查询</string>
+	<key>fori_Title</key>
+	<string>查询</string>
+	<key>getAllImagesFormProject抽取出一个项目的所有图片</key>
+	<string>getAllImagesFormProject</string>
+	<key>getVisibleViewControllerFrom</key>
+	<string>查询</string>
+	<key>iOS统计代码总行数</key>
+	<string>查询</string>
+	<key>iPhone屏幕分辨率和尺寸</key>
+	<string>查询</string>
+	<key>kvo</key>
+	<string>查询</string>
+	<key>label颜色</key>
+	<string>查询</string>
+	<key>ljz懒加载</key>
+	<string>ZH_LJZ</string>
+	<key>localhost</key>
+	<string>查询</string>
+	<key>prefix header</key>
+	<string>查询</string>
+	<key>reactnative创建工程</key>
+	<string>查询</string>
+	<key>requestData</key>
+	<string>查询</string>
+	<key>runtime type</key>
+	<string>查询</string>
+	<key>show@DataBaseData 显示所有数据库中的数据项</key>
+	<string>FatherClass</string>
+	<key>show@Function 显示所有类(描述和类名)</key>
+	<string>FatherClass</string>
+	<key>storyboard的页面跳转</key>
+	<string>查询</string>
+	<key>tableViewFooterHeader</key>
+	<string>查询</string>
+	<key>tableView与navigationBar和tabBarController</key>
+	<string>查询</string>
+	<key>tableview必须实现的方法</key>
+	<string>查询</string>
+	<key>uisearchcontroller搜索一个控制器</key>
+	<string>查询</string>
+	<key>uisearchcontroller搜索在两个控制器</key>
+	<string>查询</string>
+	<key>xcode6.0使用空工程</key>
+	<string>查询</string>
+	<key>xml使用时需要mrc</key>
+	<string>查询</string>
+	<key>zhCode代码自动添加换行并转换成字符串</key>
+	<string>addCode</string>
+	<key>zhcollectionView</key>
+	<string>ZHCollectionView</string>
+	<key>zhcreatfmdb生成数据库类</key>
+	<string>ZHCreatFMDB</string>
+	<key>zhdealwithcode整理缩进代码</key>
+	<string>ZHWordWrap</string>
+	<key>zhenum枚举生成代码</key>
+	<string>ZHEnum</string>
+	<key>zhfunToRedition方法生成声明</key>
+	<string>ZHFunToRedition</string>
+	<key>zhmodel创建模型</key>
+	<string>ZHModel</string>
+	<key>zhreditionToFun声明生成方法</key>
+	<string>ZHReditionToFun</string>
+	<key>zhstatisticalCodeRows统计工程的代码行数</key>
+	<string>ZHStatisticalCodeRows</string>
+	<key>zhtableViewCollectionView</key>
+	<string>ZHTableViewCollectionView</string>
+	<key>zhtableViewContainColloectionView</key>
+	<string>tableViewContainColloectionView</string>
+	<key>zhtableview</key>
+	<string>ZHTableView</string>
+	<key>为文件添加顺序索引ZHOrderForFiles</key>
+	<string>ZHOrderForFiles</string>
+	<key>删除.git和.svnZHRemove_SVN_GIT</key>
+	<string>ZHRemove_SVN_GIT</string>
+	<key>删除image缓存</key>
+	<string>查询</string>
+	<key>删除注释RemoveComments</key>
+	<string>RemoveComments</string>
+	<key>去APP Store上评分</key>
+	<string>查询</string>
+	<key>去除api过期警告⚠️</key>
+	<string>查询</string>
+	<key>友盟分享</key>
+	<string>查询</string>
+	<key>只有一个collectionView不带头尾视图</key>
+	<string>查询</string>
+	<key>只有一个tableview还带上下拉属性MJRefresh</key>
+	<string>查询</string>
+	<key>定位允许</key>
+	<string>查询</string>
+	<key>将十进制转换成十六进制</key>
+	<string>查询</string>
+	<key>属性自动生成 针对Cell里面的拖线</key>
+	<string>propertyCreat</string>
+	<key>常见手势</key>
+	<string>查询</string>
+	<key>手机振动</key>
+	<string>查询</string>
+	<key>打印所有汉字</key>
+	<string>查询</string>
+	<key>指纹识别代码</key>
+	<string>查询</string>
+	<key>显示和隐藏不可见文件夹</key>
+	<string>查询</string>
+	<key>根据机器自动获取文件当前程序保存路径</key>
+	<string>查询</string>
+	<key>模糊匹配</key>
+	<string>查询</string>
+	<key>汉字转拼音</key>
+	<string>查询</string>
+	<key>混合编译</key>
+	<string>查询</string>
+	<key>添加单例-ZHCreatSingleClass</key>
+	<string>ZHCreatSingleClass</string>
+	<key>添加线程锁 代码只执行一次</key>
+	<string>查询</string>
+	<key>清除缓存</key>
+	<string>查询</string>
+	<key>监听耳朵是否贴近屏幕</key>
+	<string>查询</string>
+	<key>程序默认路径</key>
+	<string>查询</string>
+	<key>简单布局</key>
+	<string>查询</string>
+	<key>获取当前控制器currentViewController</key>
+	<string>查询</string>
+	<key>获取手机安装的应用</key>
+	<string>查询</string>
+	<key>设置navigationbar的图片</key>
+	<string>查询</string>
+	<key>设置毛玻璃</key>
+	<string>查询</string>
+	<key>选择图片库</key>
+	<string>查询</string>
+</dict>
+</plist>
